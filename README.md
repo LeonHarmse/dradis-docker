@@ -2,7 +2,7 @@
 
 [![GitHub](http://img.shields.io/badge/github-zuazo/dradis--docker-blue.svg?style=flat)](https://github.com/zuazo/dradis-docker) [![ImageLayers Size](https://img.shields.io/imagelayers/image-size/zuazo/dradis/latest.svg)](https://imagelayers.io/?images=zuazo/dradis:latest) [![Docker Repository on Quay.io](https://quay.io/repository/zuazo/dradis/status "Docker Repository on Quay.io")](https://quay.io/repository/zuazo/dradis) [![Build Status](http://img.shields.io/travis/zuazo/dradis-docker.svg?style=flat)](https://travis-ci.org/zuazo/dradis-docker)
 
-A [Docker](https://www.docker.com/) image with [Dradis](http://dradisframework.org/).
+A [Docker](https://www.docker.com/) image with [Dradis](https://dradis.com/ce/).
 
 ### Supported Tags and Respective `Dockerfile` Links
 
@@ -10,7 +10,7 @@ A [Docker](https://www.docker.com/) image with [Dradis](http://dradisframework.o
 
 #### What Is Dradis?
 
-From [its own website](http://dradisframework.org/):
+From [its own website](https://dradis.com/ce/):
 
 *The Dradis Framework is an open-source collaboration and reporting platform for IT security experts.*
 
